@@ -16,8 +16,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -30,8 +28,6 @@ Users should be able to:
 
 ![Desktop Design](./design/destkop-design.jpg)
 ![Mobile Design](./design/mobile-design.jpg)
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
@@ -83,8 +79,6 @@ Exploring more advanced CSS properties and animations.
 
 - Github - [Hassnaa Mahmoud](https://github.com/HASSNAAM)
 - Frontend Mentor - [@HASSNAAM](https://www.frontendmentor.io/profile/HASSNAAM)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
